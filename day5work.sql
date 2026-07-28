@@ -12,6 +12,7 @@ CREATE TABLE students_enrollment_raw (
 );
 INSERT INTO students_enrollment_raw (student_id, student_name, city, course_name, instructor, instructor_phone)
 VALUES(
+
     (101, 'Aarav Sharma', 'Mumbai', 201, 'Database Systems', 301, 'Dr. Meera Nair'),
     (101, 'Aarav Sharma', 'Mumbai', 202, 'Operating Systems', 302, 'Prof. Rahul Menon'),
     (102, 'Diya Joseph', 'Delhi', 201, 'Database Systems', 301, 'Dr. Meera Nair'),
